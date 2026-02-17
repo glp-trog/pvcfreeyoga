@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PVCFreeYoga mark">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17C964"/>
+      <stop offset="1" stop-color="#1E90FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="88" width="208" height="112" rx="56" fill="#F5F7FB" stroke="#D8E0EE" stroke-width="6"/>
+  <circle cx="80" cy="144" r="44" fill="#FFFFFF" stroke="#D8E0EE" stroke-width="6"/>
+  <circle cx="80" cy="144" r="22" fill="#F5F7FB" stroke="#D8E0EE" stroke-width="6"/>
+  <path d="M132 144L162 174L214 106" stroke="url(#g)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
